@@ -10,6 +10,8 @@ nodejs
 express
 socket.io
 peerjs
+Passport Js
+Google oauth 2
 
 
 This Project is clone of Gmeet where we can organise a meet.In the meeting a simultaneous chat feature is also available.
