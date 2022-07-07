@@ -16,7 +16,7 @@ Google oauth 2
 
 This Project is clone of Gmeet where we can organise a meet.In the meeting a simultaneous chat feature is also available.
 
-## What we used
+## What I used
 2) Bootstrap.
 1) Google Authentication.
 2) Socket and PeerJs for connecting to different IDs.
